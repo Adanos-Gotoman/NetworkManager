@@ -40,6 +40,9 @@ v 0.9.10
 v 1.0.0.0 FINAL in this year!!!
 - there are few significant changes, but you should take into account that there may be problems with the connection if there is no response from the server for a long time. Also, the program does not fully implement DSL and SNMP technologies. Next year, I will definitely fix everything.
 
+v 1.1 
+- Update UI chains and fixed en/ru localizations
+
 
 # Used libs
 https://github.com/SuperTao/Telnet

@@ -49,8 +49,8 @@
     <v:String x:Key="btn_UpdateConfig">Обновить конфигурацию</v:String>
     <v:String x:Key="btn_UpdateState">Обновить состояние</v:String>
     <v:String x:Key="btn_UpdateHistory">Обновить историю</v:String>
-    <v:String x:Key="btn_ShowOnPort">Показать на порту</v:String>
     <v:String x:Key="btn_ShowOnSlot">Показать на слоту</v:String>
+    <v:String x:Key="btn_ShowOnSlotPort">Слот/Порт</v:String>
     <v:String x:Key="btn_PhysXErrors">Показать физ. ошибки</v:String>
     <v:String x:Key="btn_ConfigEditMode">Изменить</v:String>
     <v:String x:Key="btn_InterfaceDescr">Показать описание портов</v:String>

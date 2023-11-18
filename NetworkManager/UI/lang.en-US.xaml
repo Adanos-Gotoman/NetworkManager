@@ -49,8 +49,8 @@
     <v:String x:Key="btn_UpdateConfig">Update configuration</v:String>
     <v:String x:Key="btn_UpdateState">Update state</v:String>
     <v:String x:Key="btn_UpdateHistory">Update history</v:String>
-    <v:String x:Key="btn_ShowOnPort">Show on port</v:String>
     <v:String x:Key="btn_ShowOnSlot">Show on slot</v:String>
+    <v:String x:Key="btn_ShowOnSlotPort">Show on slot/port</v:String>
     <v:String x:Key="btn_PhysXErrors">Show PhysX errors</v:String>
     <v:String x:Key="btn_ConfigEditMode">Configure terminal</v:String>
     <v:String x:Key="btn_InterfaceDescr">Show interfaces description</v:String>
